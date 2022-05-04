@@ -1,6 +1,58 @@
 Kafka
 ----------------------------------------------------------------
 
+
+    Agenda
+    -----------------
+
+        Main 1: Apache Kafka Baics
+                    What is Kafka? 
+                    Kafka Features
+                    Kafka Concepts
+                    Kafka Architecture
+                    Kafka Components 
+                    Kafka Installation
+                    Kafka Cluster 
+                    Types of Kafka Clusters
+                    Configuring Single Node Single Broker Cluster  
+        Main 2: Kafka Producer 
+                    Constructing a Kafka Producer 
+                    Sending a Message to Kafka 
+                    Producing Keyed and Non-Keyed Messages  
+                    Sending a Message Synchronously & Asynchronously 
+                    Configuring Producers 
+                    Serializers 
+                    Partitions 
+        Main 3: Kafka Consumer 
+                    Consumers and Consumer Groups 
+                    Standalone Consumer 
+                    Consumer Groups and Partition Rebalance 
+                    Creating a Kafka Consumer 
+                    Subscribing to Topics 
+                    The Poll Loop 
+                    Configuring Consumers 
+                    Commits and Offsets 
+                    Rebalance Listeners 
+                    Consuming Records with Specific Offsets 
+                    Deserializers 
+        Main 4: Kafka Internals
+                    Cluster Membership 
+                    The Controller 
+                    Replication   
+                    Request Processing 
+                    Physical Storage 
+                    Reliability  
+                    Broker Configuration 
+                    Using Producers in a Reliable System 
+                    Using Consumers in a Reliable System 
+        
+        Main 5: Kafka Stream Processing 
+                    Stream Processing  
+                    Stream-Processing Concepts  
+                    Stream-Processing Design Patterns
+                    Kafka Streams by Example 
+        
+
     Lab SetUp
     -----------------------
         STS/Eclipse IDE
