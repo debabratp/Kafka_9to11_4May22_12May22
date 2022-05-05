@@ -73,6 +73,7 @@ Kafka
 
         + Kafka can be configured on a single clustur or a multiple - clustur
         + Kafka can be used in any scale of utility
+        + Kafaka can be used as a event store
     
     Message Driven System
 
@@ -83,9 +84,8 @@ Kafka
 
         Broadcasting
 
-
             producer1
-            producer2   -------->> MSG -- MSG-POOL ------->> consumer1, consumer2, consumer3...
+            producer2   -------->> MSG -- MSG-POOL[TOPICS] ------->> consumer1, consumer2, consumer3...
             producer3
 
         Kafka supports both types of Messaging systems.
