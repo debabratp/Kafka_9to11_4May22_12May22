@@ -1,2 +1,9 @@
 kafka*
 .idea
+/spring-kafka-producer/spring-kafka-producer.iml
+/kafka-console-consumer/*.iml
+/kafka-console-consumer/target
+/spring-kafka-producer/target
+/kafka-console-consumer/*.iml
+/kafka-console-consumer/target
+/kafka_2.12-2.8.0
